@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="JOVANOVIC-AHOUSSI/JOVANOVIC-AHOUSSI/Lite/src"/>
+	<classpathentry kind="src" path="JOVANOVIC-AHOUSSI/Lite/src"/>
+	<classpathentry kind="output" path="JOVANOVIC-AHOUSSI/JOVANOVIC-AHOUSSI/Lite/bin"/>
+</classpath>
